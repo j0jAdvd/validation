@@ -1,5 +1,4 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
 pwd
-source ./1-bring_me_home
-pwd
+./1-bring_me_home
