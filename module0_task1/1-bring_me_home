@@ -1,10 +1,6 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
-cd ../../../../..
+cd ../../../../../..
 pwd
-/tmp
-echo $HOME
-source ./1-bring_me_home
-pwd
-/home/devops/curso/VMS/web/validation
+echo ok 
 exit
