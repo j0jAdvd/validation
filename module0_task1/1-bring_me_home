@@ -1,6 +1,6 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
 pwd
-echo $HOME
+echo $home
 source ./1-bring_me_home
 pwd
