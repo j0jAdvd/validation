@@ -1,1 +1,2 @@
+ls -la
 mv [A-Z]* /tmp/u
