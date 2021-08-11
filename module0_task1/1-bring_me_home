@@ -2,5 +2,9 @@
 # -*- ENCODING: UTF-8 -*-
 cd ../../../../..
 pwd
-echo ok 
+/tmp
+echo $HOME
+source ./1-bring_me_home
+pwd
+/home/devops/curso/VMS/web/validation
 exit
