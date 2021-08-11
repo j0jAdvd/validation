@@ -1,4 +1,4 @@
 #!/bin/bash
+cd ../../../../..
 pwd
-source ./1-bring_me_home
-echo
+echo ok
