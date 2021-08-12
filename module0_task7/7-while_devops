@@ -1,0 +1,8 @@
+#!/bin/bash
+d=10
+while [ $d -gt 0 ];
+do 
+echo DevOps
+d=$(($d-1))
+done
+exit
